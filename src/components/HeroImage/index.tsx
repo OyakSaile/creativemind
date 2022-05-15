@@ -5,7 +5,7 @@ export function HeroImage() {
       <div className="flex flex-col items-center md:flex-row">
         <div>
           <h1 className="text-6xl text-grey ">
-            Olá, bem vindo a{" "}
+            Olá, bem vindo a
             <span className="text-primary 	leading-10	font-bold">
               Creative Mind <br />
               Design
