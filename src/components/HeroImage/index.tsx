@@ -11,7 +11,7 @@ export function HeroImage() {
               Design
             </span>
           </h1>
-          <p className="my-6 text-grey text-justify">
+          <p className="my-6 text-grey text-justify w-3/4">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id
             inventore porro consectetur necessitatibus odio aperiam reiciendis
             praesentium ducimus rem adipisci? Molestiae assumenda incidunt
