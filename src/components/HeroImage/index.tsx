@@ -12,9 +12,10 @@ export function HeroImage() {
             </span>
           </h1>
           <p className="my-6 text-grey text-justify">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id
+            inventore porro consectetur necessitatibus odio aperiam reiciendis
+            praesentium ducimus rem adipisci? Molestiae assumenda incidunt
+            sapiente qui deleniti amet ducimus, nisi exercitationem!
           </p>
 
           <button className="btn bg-primary p-4 text-white rounded-xl hover:bg-secondary transition-colors">
@@ -23,7 +24,13 @@ export function HeroImage() {
         </div>
 
         <div className=" w-full relative flex justify-center ">
-          <Image src="/logo.png" width={500} height={500} quality="100" alt="Creative Mind Design - Logo" />
+          <Image
+            src="/logo.png"
+            width={500}
+            height={500}
+            quality="100"
+            alt="Creative Mind Design - Logo"
+          />
         </div>
       </div>
     </section>
