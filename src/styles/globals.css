@@ -3,12 +3,7 @@
 @tailwind utilities;
 
 body {
-  background-color: linear-gradient(
-    109.2deg,
-    #fdfdfd -13.04%,
-    rgba(253, 253, 253, 0.841746) 65.51%,
-    rgba(253, 253, 253, 0.74) 116.02%
-  );
+  background: linear-gradient(109.2deg,#fdfdfd -13.04%,rgba(253, 253, 253, 0.841746) 65.51%,rgba(253, 253, 253, 0.74) 116.02%)!important;
   font-family: "Roboto", sans-serif;
 }
 
